@@ -1,0 +1,94 @@
+*{
+	margin:0px;
+	padding:0px;
+	outline:0px;
+	}
+	/* start menu */
+.well {
+		border:0;
+		border-radius:0;
+		padding:30px 50px;
+	}
+	.well-register{
+		padding:30px 70px;
+	}
+.dropdown a {
+	fotn-size:20px;
+	text-decoration:none;
+	cursor:pointer;
+}
+.dropdown i {
+	color:red;
+	padding-right:15px;
+}
+.dropdown sup{
+	color:black;
+}
+.header span{
+	font-size:16px;
+}
+.image-area img{
+	width:60px;
+	height:auto;
+}
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: blue;
+  border-radius: 50%;
+  display: inline-block;
+}
+.menu-area ul{
+	list-style:none;
+}
+.menu-area ul li{
+	padding:10px 0;
+}
+.menu-area ul li a{
+	font-size:16px;
+	color:black;
+	text-decoration: none;
+}
+ul li ul{
+	padding-left:15px;
+}
+.logout-form{
+	display: none;
+}
+/* End menu */
+
+.standard{
+	padding:0;
+}
+/* all page padding top such as register, login, verify, reset,email */
+.common{
+	padding-top:150px;
+}
+.common-register{
+	padding-top:40px;
+}
+.all-item{
+	padding:12px 0;
+}
+
+
+/* AllMemberlist start */
+.mess-all p{
+	padding:10px 0;
+	font-size:20px;
+	font-weight:bold;
+}
+/* AllMemberlist end */
+
+/* Memer memberupdate info table  start*/
+.update-table ul{
+		list-style:none;
+}
+.update-table ul li{
+		float:left;
+}
+.update-table ul li a {
+	padding:0 2px;
+	text-decoration: none;
+}
+/* Memer memberupdate info table  end*/
